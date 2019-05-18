@@ -1,0 +1,26 @@
+…or create a new repository on the command line
+echo "# food_point_services" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:asadjaved63/food_point_services.git
+git push -u origin master
+
+
+--------------------------------------------
+…or push an existing repository from the command line
+git remote add origin git@github.com:asadjaved63/food_point_services.git
+git push -u origin master
+
+
+
+
+https://asadjaved63@bitbucket.org/asadjaved63/laravel_project.git
+
+
+git remote add origin https://asadjaved63@bitbucket.org/asadjaved63/laravel_project.git
+
+
+
+git remote -v
+git remote set-url origin https://asadjaved63@bitbucket.org/asadjaved63/laravel_project.git
