@@ -33,3 +33,5 @@ java -jar jenkins.war
 http://localhost:8080/safeRestart
 
 https://www.guru99.com/jenkins-pipeline-tutorial.html
+
+https://plugins.jenkins.io/
