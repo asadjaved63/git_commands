@@ -24,3 +24,6 @@ git remote add origin https://asadjaved63@bitbucket.org/asadjaved63/laravel_proj
 
 git remote -v
 git remote set-url origin https://asadjaved63@bitbucket.org/asadjaved63/laravel_project.git
+
+
+https://stackoverflow.com/questions/14869311/start-stop-and-restart-jenkins-service-on-windows
